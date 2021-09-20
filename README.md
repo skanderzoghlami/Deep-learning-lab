@@ -26,7 +26,7 @@ It contains the lab assignments and the instruction on how  to submit your work.
 This project contains the master branch. This branch contains the file provided by the instructor.
 As a student or group of student create your own branch with the following name:
 
-BRANCH_MEMBER1-FIRST-NAME__MEMBER2-FIRST-NAME__MEMBER3-FIRST-NAME
+BRANCH_MEMBER1-FIRST-NAME_LAST-NAME__MEMBER2-FIRST-NAME_LAST-NAME__MEMBER3-FIRST-NAME_LAST-NAME
 
 ### How to submit
  - Copy the folder of the desired lab into your branch. This folder should contains .
