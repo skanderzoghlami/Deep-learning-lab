@@ -3,7 +3,8 @@
 # Introduction
 
 This repo is dedicated for RT5 class of 2021.
-It contains the lab assignments and the instruction on how  to submit.
+
+It contains the lab assignments and the instruction on how  to submit your work.
 
 ### Before you submit
  - You must do this assignment in groups of **at most 3 students**.
