@@ -1,0 +1,11 @@
+Basic grade BG :
+
+Submission delay DD : 0 days
+
+Early submission ED : 0 days
+
+FG = 	max((0.95)^DD * BG, (2/3) * BG); if DD > 0
+	min((1.02)^ED * BG, (5/4) * BG); if ED > 0
+	BG; otherwise 
+
+Final Grade FG :
